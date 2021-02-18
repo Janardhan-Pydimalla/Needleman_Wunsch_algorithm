@@ -7,6 +7,12 @@ Created on Sun Sep  6 12:39:21 2020
 """
 
 
+
+
+
+
+
+
 def needle6():
     gap=int(input("Enter the gap penality: "))
     match=int(input("Enter the match score: "))
