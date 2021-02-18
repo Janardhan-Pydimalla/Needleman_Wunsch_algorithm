@@ -1,5 +1,5 @@
 # Needleman_Wunsch_algorithm
-# -*- coding: utf-8 -*-
+
 """
 Created on Sun Sep  6 12:39:21 2020
 
@@ -14,7 +14,9 @@ Created on Sun Sep  6 12:39:21 2020
 
 
 def needle6():
+
     gap=int(input("Enter the gap penality: "))
+    
     match=int(input("Enter the match score: "))
     mismatch=int(input("Enter the mismatch penality: "))
     print("\nEnter the sequences. Copy & Paste the fasta file content :- ")
